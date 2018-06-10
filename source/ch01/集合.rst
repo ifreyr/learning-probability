@@ -36,3 +36,7 @@
    \big(\displaystyle\bigcup_n S_n\big)^c=\displaystyle\bigcap_n S_{n}^{c}
 
    \big(\displaystyle\bigcap_n S_n\big)^c=\displaystyle\bigcup_n S_{n}^{c}
+
+.. tip::
+
+   证明思路参考上面集合相等的定义。
