@@ -30,6 +30,7 @@
 
 
 .. image:: ../images/ch01/rule.png
+   :scale: 50%
 
 
 ----
