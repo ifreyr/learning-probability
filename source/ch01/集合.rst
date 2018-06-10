@@ -1,0 +1,38 @@
+集合
+=========
+
+记号和术语
+----------------
+
+
+子集
+   集合 :math:`S` 的所有元素均为集合 :math:`T` 的元素，称 :math:`S` 为 :math:`T` 的
+   子集，记做 :math:`S\subset T`。
+
+集合相等
+   若 :math:`S\subset T` 且 :math:`T\subset S`，两个集合相等，记做 :math:`S=T`。
+
+补集
+   集合 :math:`\{x\in\Omega|x\not\in S\}` 称为集合 :math:`S` 相对于 :math:`\Omega`
+   补集，记做 :math:`S^{c}` 。
+
+并集
+   :math:`\displaystyle\bigcup_{n=1}^{\infty}=S_{1}\cup S_{2}\cdots=\{x|x\in S_{n} 对某个 n 成立\}`
+
+交集
+   :math:`\displaystyle\bigcap_{n=1}^{\infty}=S_{1}\cap S_{2}\cdots=\{x|x\in S_{n} 对一切 n 成立\}`
+
+分割
+   如果一组集合中的集合互不相交（任何两个不相交），并且它们的并为 :math:`S`，这组集合
+   称为 :math:`S` 的一个分割。
+
+----
+
+德摩根律
+----------
+
+.. math::
+
+   \big(\displaystyle\bigcup_n S_n\big)^c=\displaystyle\bigcap_n S_{n}^{c}
+
+   \big(\displaystyle\bigcap_n S_n\big)^c=\displaystyle\bigcup_n S_{n}^{c}
