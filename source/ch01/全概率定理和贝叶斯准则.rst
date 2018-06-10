@@ -31,6 +31,8 @@
 
 .. image:: ../images/ch01/rule.png
    :scale: 50%
+   :align: center
+   :alt: 全概率定理和贝叶斯准则
 
 
 ----

@@ -13,6 +13,8 @@
 
 
 .. image:: ../images/ch01/model.png
+   :align: center
+   :alt: 概率模型
 
 
 样本空间和事件
