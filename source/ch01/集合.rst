@@ -31,11 +31,13 @@
 德摩根律
 ----------
 
-.. math::
+.. important::
 
-   \big(\displaystyle\bigcup_n S_n\big)^c=\displaystyle\bigcap_n S_{n}^{c}
+   .. math::
 
-   \big(\displaystyle\bigcap_n S_n\big)^c=\displaystyle\bigcup_n S_{n}^{c}
+      \big(\displaystyle\bigcup_n S_n\big)^c=\displaystyle\bigcap_n S_{n}^{c}
+
+      \big(\displaystyle\bigcap_n S_n\big)^c=\displaystyle\bigcup_n S_{n}^{c}
 
 .. tip::
 
